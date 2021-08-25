@@ -19,7 +19,7 @@ to make the code clean and hence making the website optimised for search engines
 5. We have added comments in CSS to improve accessibility.
 
 # Assests
-The following image shows the website's appearance ![Horiseon homepage](file:///C:/Users/srila/OneDrive/Desktop/homework_bootcmap/code_refactor_week1hw/index.html)
+The following image shows the website's appearance ![Horiseon webpage](./assets/images/website-final.png)
 
 # Credits
 I used google to help me with my project and the resources provided by my instructors.
