@@ -3,7 +3,7 @@
 
 # Overview
 
-The purpose of this project is to  make my website more accessible. I want to use "dry" principle of coding 
+The purpose of this project is to  make the website more accessible. The "dry" principle of coding is used
 to make the code clean and hence making the website optimised for search engines.
 
 # Steps to acheive the goal
@@ -14,9 +14,12 @@ to make the code clean and hence making the website optimised for search engines
 
 3. Adding comments to the html for improved accessibilty and understanding of code.
 
-4. In Css we have removed the repititive blocks of code and merged them to perform the same styling with fewer code lines
+4. In CSS we have removed the repititive blocks of code and merged them to perform the same styling with fewer code lines
 
-5. We have added comments in Css to improve accessibility.
+5. We have added comments in CSS to improve accessibility.
 
-# # Assests
-The following image shows the website's appearance ![Horiseon homepage](./assests./images./website-final.png)
+# Assests
+The following image shows the website's appearance ![Horiseon homepage](assets\images\website-final.png)
+
+# Credits
+I used google to help me with my project and the resources provided by my instructors.
